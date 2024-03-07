@@ -1,7 +1,9 @@
 package sample;
 
 import java.awt.EventQueue;
-
+//jhfgjhfghfgu
+//jhgfugugiu
+//jhguj
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
